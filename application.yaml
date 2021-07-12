@@ -1,1 +1,6 @@
 name: application
+app:
+  product:
+    resource:
+      by-customer: byCustomer.dat
+      data: data.dat
