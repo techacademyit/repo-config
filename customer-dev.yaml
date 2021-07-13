@@ -5,4 +5,4 @@ app:
         test: classpath:customers.dat
         reactive: classpath:customer-5k.dat
         no-reactive: classpath:customers-nor.dat
-    repository: CustomerRepositoryImpl
+    repository: customerRepositoryImpl
