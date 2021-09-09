@@ -1,8 +1,8 @@
 name: application
 app:
   services:
-    customer: http://ip172-18-0-75-c3ngebvqf8u00094pgo0-8080.direct.labs.play-with-docker.com/
-    product: http://ip172-18-0-9-c3ngebvqf8u00094pgo0-8080.direct.labs.play-with-docker.com/
+    customer: http://localhost:8081/
+    product: http://localhost:8080/
   product:
     resource:
       by-customer: classpath:byCustomer.dat
