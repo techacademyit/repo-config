@@ -1,0 +1,5 @@
+mongodb:
+  host: cluster0.cgkyr.mongodb.net
+  username: mongou
+  password: a1234567890
+  database: techacademy
